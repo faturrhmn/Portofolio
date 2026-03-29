@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="Placeholder foto proyek">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1c2533"/>
+      <stop offset="100%" style="stop-color:#161d27"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <rect x="1" y="1" width="798" height="448" fill="none" stroke="rgba(61,214,195,0.25)" stroke-width="2" rx="12"/>
+  <g fill="none" stroke="#3dd6c3" stroke-width="2" stroke-linecap="round" opacity="0.5">
+    <rect x="320" y="155" width="160" height="120" rx="8"/>
+    <circle cx="400" cy="195" r="18"/>
+    <path d="M340 265 L360 245 L385 265 L420 230 L460 275"/>
+  </g>
+  <text x="400" y="310" text-anchor="middle" fill="#9aa4b2" font-family="system-ui,sans-serif" font-size="15" font-weight="600">Ganti atribut src pada tag img</text>
+  <text x="400" y="335" text-anchor="middle" fill="#6b7584" font-family="system-ui,sans-serif" font-size="12">simpan foto di folder images/pengalaman/</text>
+</svg>
